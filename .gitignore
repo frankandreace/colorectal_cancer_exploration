@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Input Data
+data/
+
+# Exploratory notebook
+Exploratory.ipynb
+
+# temp data
+tumor_vs_normal_DEGs.csv
